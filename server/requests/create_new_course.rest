@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/courses
+Content-Type: application/json
+
+{
+  "name": "NestJs, A framework for nodejs",
+  "id": "qw437",
+  "parts": []
+}
